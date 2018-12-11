@@ -1,8 +1,9 @@
-The color game
+The color game and unicorn text
 purple 
 orange
 red
 green
 Gray
+unicorn
 blue 
 biege

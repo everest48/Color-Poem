@@ -3,5 +3,6 @@ purple
 orange
 red
 green
+Gray
 blue 
 biege

@@ -1,4 +1,4 @@
-The color game and unicorn text
+The color game and unicorn text and I added ponny
 purple 
 orange
 red
@@ -7,3 +7,4 @@ Gray
 unicorn
 blue 
 biege
+Ponny is beautiful

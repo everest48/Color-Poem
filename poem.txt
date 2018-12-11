@@ -1,4 +1,5 @@
-The color game and unicorn text and i added some changes in the master too
+
+
 purple 
 orange
 red
@@ -8,3 +9,4 @@ unicorn
 Indigo
 blue 
 biege
+Ponny is beautiful

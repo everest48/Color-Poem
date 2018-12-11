@@ -1,9 +1,10 @@
-The color game and unicorn text
+The color game and unicorn text and i added some changes in the master too
 purple 
 orange
 red
 green
 Gray
 unicorn
+Indigo
 blue 
 biege
